@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Beggin'",
+  "base_artist": "Maneskin",
+  "createdAt": "2026-03-03T01:52:09.616261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beggin'",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/01_Beggin'_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beggin'",
+      "artist": "Madcon",
+      "has_synced": true,
+      "path": "select/02_Beggin'_Madcon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beggin",
+      "artist": "Madcon",
+      "has_synced": true,
+      "path": "select/03_Beggin_Madcon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beggin For Thread",
+      "artist": "BANKS",
+      "has_synced": true,
+      "path": "select/04_Beggin_For_Thread_BANKS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beggin' Woman Blues (Live)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/05_Beggin'_Woman_Blues_(Live)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beggin' Woman Blues",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/06_Beggin'_Woman_Blues_Prince.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Beggin' You",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/07_I'm_Beggin'_You_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Beggin' You",
+      "artist": "Supertramp",
+      "has_synced": false,
+      "path": "select/08_I'm_Beggin'_You_Supertramp.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beggin' - Remix",
+      "artist": "Hawk feat. Reznikov & Alex Albino",
+      "has_synced": true,
+      "path": "select/09_Beggin'_-_Remix_Hawk_feat._Reznikov_&_Alex_Albino.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beggin' (Remix)",
+      "artist": "Hawk",
+      "has_synced": true,
+      "path": "select/10_Beggin'_(Remix)_Hawk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beggin (original version)",
+      "artist": "Madcon",
+      "has_synced": true,
+      "path": "select/11_Beggin_(original_version)_Madcon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beggin'",
+      "artist": "Timebox",
+      "has_synced": true,
+      "path": "select/12_Beggin'_Timebox.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beggin' on Your Knees",
+      "artist": "Victoria Justice",
+      "has_synced": true,
+      "path": "select/13_Beggin'_on_Your_Knees_Victoria_Justice.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beggin On Your Knees (www.primemusic.ru)",
+      "artist": "Victoria Justice",
+      "has_synced": true,
+      "path": "select/14_Beggin_On_Your_Knees_(www.primemusic.ru)_Victoria_Justice.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beggin'",
+      "artist": "Shocking Blue",
+      "has_synced": true,
+      "path": "select/15_Beggin'_Shocking_Blue.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Beggin' You",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/16_I'm_Beggin'_You_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beggin'",
+      "artist": "The Four Seasons",
+      "has_synced": true,
+      "path": "select/17_Beggin'_The_Four_Seasons.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beggin'",
+      "artist": "Måneskin",
+      "has_synced": false,
+      "path": "select/pl_01_Beggin'_Måneskin.txt"
+    }
+  ]
+}
